@@ -1,0 +1,12 @@
+name: test
+title: test
+username:
+account: stepanrozek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 635349
+bundleId: 1825354
+url: https://stepanrozek.shinyapps.io/test/
+when: 1547996903.7782
+asMultiple: FALSE
+asStatic: FALSE
